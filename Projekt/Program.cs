@@ -12,6 +12,7 @@ namespace Projekt
             Console.WriteLine("Hello world!!!");
             Console.WriteLine("file changed!!!");
             Console.WriteLine("bla bla");
+            Console.Writeline("promjena");
             Console.Read();
         }
     }
